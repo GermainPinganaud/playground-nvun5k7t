@@ -1,4 +1,4 @@
-# Exemple
+# Exemple de Quizz Cloudfactory
 
 
 *On peut rédiger un simple quiz en markdown auquel sont ajouté certaines fonctionnalités.*
